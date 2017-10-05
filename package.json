@@ -1,0 +1,17 @@
+{
+  "name": "myspiritanimal",
+  "version": "1.0.0",
+  "description": "Class example using express.js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "surbhi sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
